@@ -6,7 +6,7 @@ public class Dish {
     public Dish(String name, double price){
         this.name = name;
         this.price = price;
-        this.isSpicy = spicy;
+        this.isSpicy = isSpicy;
     }
 
     public String getName() {
